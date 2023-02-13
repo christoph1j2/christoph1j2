@@ -1,6 +1,6 @@
 - 👋 Hiya, I’m @christoph1j2
 - 👀 I’m interested in coding, videogame development and generally all the things surrounding computers.
-- 🌱 I’m currently learning the basics of HTML, CSS, JS, Java, the simple languages basically. =P
+- 🌱 I’m currently learning the basics of HTML, CSS, JS, Java.
 - 📫 You can reach me on discord => christoph1j2#1364
 
 <!---
