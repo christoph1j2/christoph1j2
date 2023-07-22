@@ -1,7 +1,4 @@
-- 👋 Hiya, I’m @christoph1j2
-- 👀 I’m interested in coding, videogame development and generally all the things surrounding computers.
-- 🌱 I’m currently learning the basics of HTML, CSS, JS, Java.
-- 📫 You can reach me on discord => christoph1j2#5175
+💀
 
 <!---
 christoph1j2/christoph1j2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
