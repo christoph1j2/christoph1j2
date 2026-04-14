@@ -1,5 +1,5 @@
-CS student @ UWB Pilsen · building things with Java, C#, React & PHP
-Interested in embedded systems, low-level programming & web dev
+CS student @ UWB Pilsen · building things with Java, C#, React & PHP<br>
+Interested in embedded systems, low-level programming & web dev<br>
 🇩🇪 Czech–Bavarian border region -> aiming for MSc. in Bavaria
 
 <!---
