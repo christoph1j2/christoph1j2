@@ -51,3 +51,5 @@ If I'm not writing code, then I'm either spending time with family & friends, pl
 
 ---
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=christoph1j2&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=christoph1j2&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=github_dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=christoph1j2&theme=dark)](https://git.io/streak-stats)
