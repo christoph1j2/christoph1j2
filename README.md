@@ -46,7 +46,7 @@ If I'm not writing code, then I'm either spending time with family & friends, pl
 
 ---
 ### Connect
-* **LinkedIn:** https://www.linkedin.com/in/ernst-christoph-leschka-52385421b/
+* **LinkedIn:** https://www.linkedin.com/in/ernst-christoph-leschka-52385421b
 * **Email:** ernst.leschka@gmail.com
 
 ---
