@@ -2,7 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+World!&color=38B2AC&size=30)
 <!---
 christoph1j2/christoph1j2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes. :-)
 --->
 I'm a Software Engineering undergrad @ the _University of West Bohemia_ (UWB FAS / ZČU FAV) and a software developer @ _Leuze Engineering_, where I currently work with C#/Blazor.
 Outside of work and uni, I either work on my own software projects, mess around with bare-metal hardware or maintain my own homelab.
